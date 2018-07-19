@@ -6,4 +6,4 @@ For compiling or re-compiling the project do next thing:
 javac crawler/*.java
 
 In order to run indexing do command below:
-java crawler.Execute
+java crawler.Execute <Number of threads (50 recommended)>
